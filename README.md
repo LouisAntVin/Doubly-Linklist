@@ -29,7 +29,7 @@ void main()
 			/*Insert an element at front*/
 			case 1:
 			{
-				printf("Enter data");
+				printf("Enter data :");
 				scanf("%d",&entry);
 				if(head==NULL)
 				{
