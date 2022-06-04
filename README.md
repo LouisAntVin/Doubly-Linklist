@@ -54,7 +54,7 @@ void main()
 			/*Insert an element at end*/
 			case 2:
 			{
-				printf("Enter data");
+				printf("Enter data :");
 				scanf("%d",&entry);
 				if(head==NULL)
 				{
